@@ -1,5 +1,5 @@
 # Emission-Lines
-Predicting emission lines of bright galaxies from photometric data. I still have to upload some data different than what I usually use (DESI data) because it's not public.
+Predicting emission lines of bright galaxies from photometric data. I can't show any results or figures beceause DESI data is not public yet.
 
 I am first using local linear regression to predict various emission lines (H_alpha, OII, etc.) from photometric fluxes like SDSS-G, SDSS-R, etc. To test predictions I'm using cross-validation with a 90-10 split.
 
