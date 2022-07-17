@@ -5,4 +5,4 @@ I am first using local linear regression to predict various emission lines (H_al
 
 I am also trying to use my own calculated fluxes from the spectral energy distribution of the galaxy to see if it's any better.
 
-Eventually I want to combine the above with more sophisticated models (deep neural networks) to find the best way of predicting the lines.
+I also use some ML methods, like random forest, xgboost, and neural networks, to predict the emission lines. 
